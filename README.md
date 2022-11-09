@@ -11,3 +11,7 @@ Day 2: Bathroom Security
 Day 3: Squares With Three Sides
        
        Part 1 and 2 : Solved with zip function
+      
+Day 4: Security Through Obscurity
+       
+       This is my second time solving a shift cipher.
