@@ -19,3 +19,7 @@ Day 4: Security Through Obscurity
 Day 5: How About a Nice Game of Chess?
          
        Practised while loops and list comprehension.
+
+Day 6: Signals and Noise
+        
+       Solved using Counter from collections module.
