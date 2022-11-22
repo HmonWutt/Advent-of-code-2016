@@ -15,3 +15,7 @@ Day 3: Squares With Three Sides
 Day 4: Security Through Obscurity
        
        This is my second time solving a shift cipher.
+       
+Day 5: How About a Nice Game of Chess?
+         
+       Practised while loops and list comprehension.
